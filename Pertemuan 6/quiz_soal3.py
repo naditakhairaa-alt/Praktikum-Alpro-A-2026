@@ -1,0 +1,1 @@
+order = input("Total Belanja: ")
